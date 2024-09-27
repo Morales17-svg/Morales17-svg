@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Morales17-svg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨‍💻 Hola, soy Pablo Morales, estudiante de Ingeniería Informática.  
+💻 Me interesa la programación y disfruto desarrollando páginas web en mi tiempo libre.  
+🎸 Me encanta tocar la guitarra y escuchar música.  
+⚽ Suelo jugar al fútbol.  
+🌱 Actualmente estoy aprendiendo HTML, CSS y explorando el mundo de los comandos de Linux.  
+🤝 Busco colaborar en proyectos de desarrollo web y en cualquier desafío que me permita crecer como desarrollador.  
+📫 Cómo contactarme: Puedes escribirme al correo pablo.morales@example.com  
+✨ Dato curioso: En el futuro, aspiro a ser alguien que inspire a los demás.
+
 
 <!---
 Morales17-svg/Morales17-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
